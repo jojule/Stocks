@@ -1,0 +1,13 @@
+@import url(../reindeer/styles.css);
+
+div.v-view {
+    background-color: #4d76a0;
+	background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 1000, from(#cce9ff), to(#4d76a0));
+	background: -moz-radial-gradient(50% 50%, circle, #cce9ff 0px, #4d76a0 1000px);
+}
+
+div.v-horizontallayout { 
+   background-color: #5585aa;
+   border-radius: 10px;
+   -webkit-box-shadow: #000 0px 0px 60px;   
+}
